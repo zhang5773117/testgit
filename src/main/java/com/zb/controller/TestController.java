@@ -20,7 +20,7 @@ public class TestController {
     private KafkaTemplate kafkaTemplate;
     //测试2.0
     private static List<User> userList ;
-    //张三
+    //张三2.0
     //李四3.0
     static {
         userList=new ArrayList<>();
