@@ -18,7 +18,7 @@ public class TestController {
 
     @Autowired
     private KafkaTemplate kafkaTemplate;
-
+    //测试
     private static List<User> userList ;
     static {
         userList=new ArrayList<>();
