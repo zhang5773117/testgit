@@ -20,6 +20,7 @@ public class TestController {
     private KafkaTemplate kafkaTemplate;
     //测试2.0
     private static List<User> userList ;
+    //李四
     static {
         userList=new ArrayList<>();
         userList.add(new User(1,"张三1"));
