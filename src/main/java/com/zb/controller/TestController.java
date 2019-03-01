@@ -21,7 +21,7 @@ public class TestController {
     //测试2.0
     private static List<User> userList ;
     //张三
-    //李四
+    //李四3.0
     static {
         userList=new ArrayList<>();
         userList.add(new User(1,"张三1"));
